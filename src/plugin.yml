@@ -1,0 +1,8 @@
+name: ChangeBlock
+main: com.katsaroucraft.gopaintman.Main
+version: 1.0
+
+commands:
+   changeblock:
+      description: Changes block that player is looking to inputed ID;
+      usage: /changeblock <id>
